@@ -1,0 +1,7 @@
+C:\Users\gyori\Documents\GitHub\progtech\progtech\progtech_2021_spring\obj\Debug\progtech_2021_spring.csprojAssemblyReference.cache
+C:\Users\gyori\Documents\GitHub\progtech\progtech\progtech_2021_spring\obj\Debug\progtech_2021_spring.csproj.CoreCompileInputs.cache
+C:\Users\gyori\Documents\GitHub\progtech\progtech\progtech_2021_spring\bin\Debug\progtech_2021_spring.exe.config
+C:\Users\gyori\Documents\GitHub\progtech\progtech\progtech_2021_spring\bin\Debug\progtech_2021_spring.exe
+C:\Users\gyori\Documents\GitHub\progtech\progtech\progtech_2021_spring\bin\Debug\progtech_2021_spring.pdb
+C:\Users\gyori\Documents\GitHub\progtech\progtech\progtech_2021_spring\obj\Debug\progtech_2021_spring.exe
+C:\Users\gyori\Documents\GitHub\progtech\progtech\progtech_2021_spring\obj\Debug\progtech_2021_spring.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progtech_2021_spring", "progtech_2021_spring\progtech_2021_spring.csproj", "{657FDFE9-B68E-4960-8295-ECB1AFB95CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657FDFE9-B68E-4960-8295-ECB1AFB95CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657FDFE9-B68E-4960-8295-ECB1AFB95CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657FDFE9-B68E-4960-8295-ECB1AFB95CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657FDFE9-B68E-4960-8295-ECB1AFB95CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78A0E5A-ADD7-4F69-AF9B-EFEA337C2991}
+	EndGlobalSection
+EndGlobal

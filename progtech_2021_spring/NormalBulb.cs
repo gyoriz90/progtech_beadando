@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace progtech_2021_spring
 {
-    class HalogenBulb:Bulb
+    class NormalBulb:Bulb
     {
         private readonly string _bulbType;
         private int _bulbPower;
         private int _bulbSize;
 
-        public HalogenBulb(int bulbPower, int bulbSize)
+        public NormalBulb(int bulbPower, int bulbSize)
         {
-            _bulbType = "Halogen Bulb";
+            _bulbType = "LED";
             _bulbPower = bulbPower;
             _bulbSize = bulbSize;
         }

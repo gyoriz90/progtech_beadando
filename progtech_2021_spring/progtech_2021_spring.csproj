@@ -44,7 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bulb.cs" />
-    <Compile Include="LedLamp.cs" />
+    <Compile Include="BulbFactory.cs" />
+    <Compile Include="HalogenBulb.cs" />
+    <Compile Include="LedBulb.cs" />
+    <Compile Include="LedBulbFactory.cs" />
+    <Compile Include="NormalBulb.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

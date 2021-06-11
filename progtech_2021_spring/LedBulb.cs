@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace progtech_2021_spring
 {
-    class LedLamp:Bulb
+    class LedBulb:Bulb
     {
         private readonly string _bulbType;
         private int _bulbPower;
         private int _bulbSize;
 
-        public LedLamp(int bulbPower, int bulbSize)
+        public LedBulb(int bulbPower, int bulbSize)
         {
             _bulbType = "LED";
             _bulbPower = bulbPower;
